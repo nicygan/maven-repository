@@ -8,11 +8,11 @@
 </mirror>
 
 2、在pom.xml中引入本仓库
-'''
+```
 <repositories>
         <repository>
             <id>gan-maven-repo</id>
             <url>https://raw.githubusercontent.com/nicygan/maven-repository/master/repository</url>
         </repository>
 </repositories>
-'''
+```
