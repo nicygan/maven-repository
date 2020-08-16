@@ -14,8 +14,7 @@
 <repositories>
         <repository>
             <id>gan-maven-repo</id>
-            <url>https://github.com/nicygan/maven-repository/tree/master/repository</url>
-            <!--<url>https://raw.githubusercontent.com/nicygan/maven-repository/master/repository</url>-->
+            <url>https://raw.githubusercontent.com/nicygan/maven-repository/master/repository</url>
         </repository>
 </repositories>
 ```
